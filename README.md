@@ -1,11 +1,10 @@
 # Blog_App
 
-- original frontend template is taken from https://startbootstrap.com/themes/clean-blog/
 
-- I have written the python backend code in app.py file. 
+- The microblog is created.
 
-- I have also modified the html files as per my backend code. I have taken few files for images, styling.
+- You can add your blog with details like topic, subtopic, author and content. 
 
-- The flask webframe work is used with sqlite3 database.
+- original frontend template is taken from https://startbootstrap.com/themes/clean-blog/. Only required files are taken. Html files as modified as per backend code.
 
-- The ORM used is sqlalchemy.
+- Python backend code is written in app.py file. The flask webframe work is used with sqlite3 database. The ORM used is SQLAlchemy.
